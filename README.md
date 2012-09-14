@@ -7,11 +7,17 @@ Cross institutional This app allows users to search for UK university courses. T
 
 http://www.jisc.ac.uk/whatwedo/programmes/elearning/coursedata.aspx http://www.jisc.ac.uk/whatwedo/programmes/elearning/coursedata/coursedata-tech.aspx
 
-Description This app lets you search a wide range of UK university courses and browse general information to help find the right one for you. It provides information only; additional enquiries should be made directly to the relevant universities.
+___________________________________________________________________________________________________________________
+
+Description 
+
+This app lets you search a wide range of UK university courses and browse general information to help find the right one for you. It provides information only; additional enquiries should be made directly to the relevant universities.
 
 This app was developed by UCLan and funded by JISC.
 
-Features Search courses by keyword, institution, qualification, study mode, location (miles or kilometres from postcode at various distances, i.e. 25x)
+Features 
+
+Search courses by keyword, institution, qualification, study mode, location (miles or kilometres from postcode at various distances, i.e. 25x)
 
 Disclaimer
 
